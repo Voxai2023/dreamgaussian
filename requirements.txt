@@ -6,12 +6,12 @@ pandas
 scipy
 scikit-learn
 matplotlib
-opencv-python==4.5.5.64
+opencv-python
 imageio
 imageio-ffmpeg
 omegaconf
 
-torch
+torch==2.1.0
 einops
 plyfile
 pygltflib
